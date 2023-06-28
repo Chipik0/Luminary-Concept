@@ -22,7 +22,7 @@ Added new animations.\
 Fixed animations when there is a lack of RAM or an unsuitable processor.\
 Added notification animation.\
 Added animation when connecting USB.\
-Added a new critical error screen.\
+Added a new critical error screen.
 
 
 # V0.0.0.1

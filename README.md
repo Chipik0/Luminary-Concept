@@ -4,9 +4,9 @@ An amateur project for **myself**. The **concept** of the future operating syste
 # V0.0.2.1
 **In work**\
 Adding a wallpaper changer function... 80%.\
-Fixing a lot of lags...\
+Fixing a lot of lags...
 >Adding the possibility of implementing your own programs into the system... 20%.\
-A file with the basis of the program code for the system will appear soon\
+A file with the basis of the program code for the system will appear soon
 
 
 

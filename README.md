@@ -11,7 +11,7 @@ A file with the basis of the program code for the system will appear soon
 
 
 # V0.0.2.0
-Added adaptation to the screen.
+Added adaptation to the screen.\
 Switching from the PIL library to the OpenCV library.
 Increased startup speed to 4 seconds.
 Reduced size to 4 MB.

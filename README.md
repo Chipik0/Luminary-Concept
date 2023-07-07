@@ -1,10 +1,12 @@
 # Luminary-Concept (Previously called NoteOS)
 An amateur project for **myself**. The **concept** of the future operating system.
 
-# V0.0.2.1
+# V0.0.3.0
 **In work**\
-Adding a wallpaper changer function... 80%.\
-Fixing a lot of lags...
+Adding the ability to update the system inside Luminary 57%.\
+Adding a wallpaper changer function... 95%.\
+Fixing a lot of lags...\
+New boot animation\
 >Adding the possibility of implementing your own programs into the system... 20%.\
 A file with the basis of the program code for the system will appear soon
 

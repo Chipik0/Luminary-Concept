@@ -3,10 +3,11 @@ An amateur project for **myself**. The **concept** of the future operating syste
 
 # V0.0.3.0
 **In work**\
-Adding the ability to update the system inside Luminary 57%.\
-Adding a wallpaper changer function... 95%.\
+Adding the ability to update the system inside Luminary 100%.\
+Adding a wallpaper changer function... 100%.\
 Fixing a lot of lags...\
 New boot animation\
+New Easter Egg
 >Adding the possibility of implementing your own programs into the system... 20%.\
 A file with the basis of the program code for the system will appear soon
 

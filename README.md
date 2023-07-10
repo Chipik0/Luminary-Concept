@@ -5,6 +5,7 @@ An amateur project for **myself**. The **concept** of the future operating syste
 **In work**\
 Adding the ability to update the system inside Luminary 100%.\
 Adding a wallpaper changer function... 100%.\
+Adding a viewing info about battery function... 95%.\
 Fixing a lot of lags...\
 New boot animation\
 New Easter Egg

@@ -13,8 +13,7 @@ Added screenshot function\
 Added sounds when charging\
 Added new config system\
 Added Idle Animation\
-Creating new bar... 30% - Creator: ![AffirVega](https://github.com/affirVega)  Thank you!\
-New Easter Egg
+Creating new bar... 30% - Creator: ![AffirVega](https://github.com/affirVega)  Thank you!
 >Adding the possibility of implementing your own programs into the system... 20%.\
 A file with the basis of the program code for the system will appear soon
 
@@ -27,7 +26,6 @@ Increased startup speed to 4 seconds.\
 Reduced size to 4 MB.\
 Added squares, when you click on which you can look at the still unused animations.\
 Added the MaterialYou module.\
-Added new Easter eggs.\
 Added new animations.\
 Fixed animations when there is a lack of RAM or an unsuitable processor.\
 Added notification animation.\

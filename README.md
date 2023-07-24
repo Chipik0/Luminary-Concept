@@ -3,11 +3,16 @@ An amateur project for **myself**. The **concept** of the future operating syste
 
 # V0.0.3.0
 **In work**\
-Adding the ability to update the system inside Luminary 100%.\
-Adding a wallpaper changer function... 100%.\
+Added the ability to update the system inside Luminary\
+Added a wallpaper changer function\
 Adding a viewing info about battery function... 95%.\
-Fixing a lot of lags...\
 New boot animation\
+Automatic installation of modules in their absence (If Pygame, os, win32api modules are present)\
+Automatic cache clearing on shutdown\
+Added screenshot function\
+Added sounds when charging\
+Added new config system\
+Creating new bar... 30% (Creator: [@https://github.com/affirVega]  Thank you!)\ 
 New Easter Egg
 >Adding the possibility of implementing your own programs into the system... 20%.\
 A file with the basis of the program code for the system will appear soon

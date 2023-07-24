@@ -12,7 +12,7 @@ Automatic cache clearing on shutdown\
 Added screenshot function\
 Added sounds when charging\
 Added new config system\
-Creating new bar... 30% (Creator: !(https://github.com/affirVega)[AffirVega]  Thank you!)\
+Creating new bar... 30% \(Creator: !(https://github.com/affirVega)[AffirVega]  Thank you!\)
 New Easter Egg
 >Adding the possibility of implementing your own programs into the system... 20%.\
 A file with the basis of the program code for the system will appear soon

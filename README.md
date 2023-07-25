@@ -1,6 +1,6 @@
 ![Desktop](https://ie.wampi.ru/2023/07/25/Desktop.png)
-![](https://im.wampi.ru/2023/07/25/ROM.png)
-![](https://ic.wampi.ru/2023/07/25/Shutdown.png)
+![Rom](https://im.wampi.ru/2023/07/25/ROM.png)
+![ShutMenu](https://ic.wampi.ru/2023/07/25/Shutdown.png)
 
 
 

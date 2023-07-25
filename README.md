@@ -1,6 +1,6 @@
 # Luminary-Concept (Previously called NoteOS)
 ## Powered by Pygame
-An amateur project for **myself**. The **concept** of the future operating system.
+An amateur project for **myself**. The **concept** of the future operating system.\
 
 
 ![Desktop](https://ie.wampi.ru/2023/07/25/Desktop.png)

@@ -29,8 +29,6 @@ Added sounds when charging\
 Added new config system\
 Added Idle Animation\
 Creating new bar... 30% - Creator: ![AffirVega](https://github.com/affirVega)  Thank you!
->Adding the possibility of implementing your own programs into the system... 20%.\
-A file with the basis of the program code for the system will appear soon
 
 
 

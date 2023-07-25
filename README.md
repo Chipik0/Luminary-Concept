@@ -1,3 +1,7 @@
+![alt text](https://github.com/Chipik0/Chipik0/ROM.png?raw=true)
+
+
+
 # Luminary-Concept (Previously called NoteOS)
 An amateur project for **myself**. The **concept** of the future operating system.
 

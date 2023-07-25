@@ -2,8 +2,14 @@
 ## Powered by Pygame
 An amateur project for **myself**. The **concept** of the future operating system.
 
-<br /><br /><br /> #Desktop ![Desktop](https://ie.wampi.ru/2023/07/25/Desktop.png)
+<br /><br /><br /> 
+# Desktop
+![Desktop](https://ie.wampi.ru/2023/07/25/Desktop.png)
+<br /><br /><br /> 
+# Rom Screen
 ![Rom](https://im.wampi.ru/2023/07/25/ROM.png)
+<br /><br /><br /> 
+# Shutdown Menu
 ![ShutMenu](https://ic.wampi.ru/2023/07/25/Shutdown.png)
 
 

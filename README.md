@@ -1,6 +1,6 @@
 <h1 align=center>Luminary</h1>
-## Powered by Pygame
-An amateur project for **myself**. The **concept** of the future operating system.
+<h4 align=center>Powered by Pygame</h4>
+<h5 align=center>An amateur project for **myself**. The **concept** of the future operating system.</h5>
   
 
   

@@ -1,4 +1,4 @@
-[](https://ie.wampi.ru/2023/07/25/Desktop.png)
+[PNG](https://ie.wampi.ru/2023/07/25/Desktop.png)
 (https://im.wampi.ru/2023/07/25/ROM.png)
 https://ic.wampi.ru/2023/07/25/Shutdown.png)
 
